@@ -1,0 +1,7 @@
+{
+  "enabledPlugins": {
+    "asana@claude-plugins-official": true,
+    "ui-ux-pro-max@ui-ux-pro-max-skill": true,
+    "frontend-design@claude-code-plugins": true
+  }
+}
